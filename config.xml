@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.satanic.booster" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Satanic Booster</name>
+    <description>Performance Engine for FF</description>
+    <author email="dev@satanic.com">Satanic Dev</author>
+    <content src="index.html" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="FullScreen" value="true" />
+</widget>
